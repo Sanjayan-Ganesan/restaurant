@@ -1,0 +1,101 @@
+{"data":[
+    {
+      "id": 4.2,
+      "title": "Baked salmon with fennel",
+      "imgURL":
+        "https:www.themealdb.com\/images\/media\/meals\/1548772327.jpg",
+        "Cusine": "Canadian,Continental,SeaFood",
+      "sellingPrice":  599.00,
+      "time": "up to 25mins"
+    },
+    {
+      "id": 4.6,
+      "title": "Cajun spiced fish Tacos",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/uvuyxu1503067369.jpg",
+        "Cusine": "Canadian,Continental,SeaFood",
+      "sellingPrice": 389.00,
+      "time": "up to 40mins"
+    },
+    {
+      "id": 3.2,
+      "title": "BeaverTails",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/ryppsv1511815505.jpg",
+        "Cusine": "American,Continental,RedMeat",
+      "sellingPrice":  165.00,
+      "time": "up to 20mins"
+    },
+    {
+      "id": 3.9,
+      "title": "Roast fennel with Patlican ",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/1520081754.jpg",
+        "Cusine": "French,European,Vegan",
+      "sellingPrice":  120.00,
+      "time": "up to 25mins"
+    },
+    {
+      "id": 4.5,
+      "title": "Spanish Tortilla",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/quuxsx1511476154.jpg",
+        "Cusine": "Spanish,European,Mexican",
+      "sellingPrice":  224.00,
+      "time": "up to 15mins"
+    },
+    {
+      "id": 4.6,
+      "title": "Beef Bourguignon",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/vtqxtu1511784197.jpg",
+        "Cusine": "European,Continental,RedMeat",
+      "sellingPrice":  420.00,
+      "time": "up to 22mins"
+    },
+    {
+      "id": 3.9,
+      "title": "Flamiche",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/wssvvs1511785879.jpg",
+        "Cusine": "Asian,Continental,Vegan",
+      "sellingPrice": 368.00,
+      "time": "up to 22mins"
+    },
+    {
+      "id": 4.2,
+      "title": "White Chocolate Creme",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/uryqru1511798039.jpg",
+        "Cusine": "European,Sweet,Desserts",
+      "sellingPrice": 296.00,
+      "time": "up to 28mins"
+    }
+    ,
+    {
+      "id": 4.9,
+      "title": "Banana Pancakes",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/sywswr1511383814.jpg",
+        "Cusine": "American,Continental,Breakfast",
+      "sellingPrice": 110.00,
+      "time": "up to 18mins"
+    },
+    {
+      "id": 2.6,
+      "title": "Kumpir",
+      "imgURL":
+        "https:\/\/www.themealdb.com\/images\/media\/meals\/mlchx21564916997.jpg",
+        "Cusine": "Turkish,Continental,Desserts",
+      "sellingPrice": 400.00,
+      "time": "up to 8mins"
+    }
+  ]
+  
+  
+  
+  
+  
+  
+  
+  }
